@@ -1,0 +1,17 @@
+clip-path:polygon()
+
+::placeholder
+
+::-webkit-search-cancel-button
+-webkit-appearance: none;
+
+section:nth-child(even)
+
+Swiper
+https://swiperjs.com/
+
+.swiper-pagination-bullet-active
+
+flex: 1 1 17rem;
+
+resize: none;
